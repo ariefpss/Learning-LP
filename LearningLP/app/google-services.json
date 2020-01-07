@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564345406084",
+    "firebase_url": "https://learn-lp.firebaseio.com",
+    "project_id": "learn-lp",
+    "storage_bucket": "learn-lp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564345406084:android:baa2f6b04c0d2da21e38d1",
+        "android_client_info": {
+          "package_name": "com.example.learninglp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564345406084-ijarcbvq4jecjoa809sjtaks596b3bsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learninglp",
+            "certificate_hash": "477015dec55fd15d82c425b32560a8bf5c60f1ac"
+          }
+        },
+        {
+          "client_id": "564345406084-jrncgu4kffic81ibaevg9jmgv4727ks3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMZiW8YMxjoLj62T2V_5CPb73aOb0sf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564345406084-jrncgu4kffic81ibaevg9jmgv4727ks3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
